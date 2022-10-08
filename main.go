@@ -69,6 +69,16 @@ func main(){
 	//  
 	po , err := createNewServer(10)
 	fmt.Println(po,err)
+
+	map2 := map[string]int {"ssksk":1929,"djd":1939}
+
+	for _, v := range map2 {
+		println(v)
+	}
+
+	// cliApp();
+	argsReader();
+	getHelp()
 }
 
 

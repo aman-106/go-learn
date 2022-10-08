@@ -7,3 +7,4 @@ type userCtler struct{}
 func (uc userCtler) method(w http.ResponseWriter, r *http.Request){
 	w.Write([]byte("skddkdk"))
 }
+
