@@ -49,9 +49,66 @@ go cli - clean , efficien t
     go help 
     go get
 
-    go version 
-    go env 
-    go list
-    godoc -http :8000
+    go version bufio.Scanner(os.Stdin , filename);
+real time - input - scanner
 
+scanner - file read 
+
+os.Exit(0)
+
+
+sscanf
+scanln
+
+log , log files
+
+trace loggerbufio.Scanner(os.Stdin , filename);
+real time - input - scanner
+
+scanner - file read 
+
+os.Exit(0)
+
+
+sscanf
+scanln
+
+log , log files
+
+trace loggerbufio.Scanner(os.Stdin , filename);
+real time - input - scanner
+
+scanner - file read 
+
+os.Exit(0)
+
+
+sscanf
+scanln
+
+log , log files
+
+trace logge
 CLI 
+
+
+string is slice of byte not chars   
+ string compare
+ index to grt chars
+
+ <!-- Todo -->
+
+bufio.Scanner(os.Stdin , filename);
+real time - input - scanner
+
+scanner - file read 
+
+os.Exit(0)
+
+
+sscanf
+scanln
+
+log , log files
+
+trace logger
